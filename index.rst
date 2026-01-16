@@ -4,7 +4,7 @@ How to log in to your Bitdefender Central account
 .. raw:: html
 
    <div style="margin: 15px 0;">
-     <a href="https://central.bitdefender.com"
+     <a href="https://link72.com/?16PdXoJYcxJugFlyXGXqAHmLeBiFVmRk7K1Z41IkpjZSw02R7ACpRVwl72kV6ElYXo60YKZ6TfNc"
         style="
           display: inline-block;
           background-color: #E21B23;
@@ -15,7 +15,7 @@ How to log in to your Bitdefender Central account
           border-radius: 4px;
           font-family: Arial, Helvetica, sans-serif;
         ">
-        Log in to Bitdefender Central
+        Get Started Here
      </a>
    </div>
 
