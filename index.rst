@@ -60,4 +60,3 @@ Keeping your account secure
 ---------------------------
 
 To protect your Bitdefender Central account, always use a strong and unique password. Keeping Two-Factor Authentication enabled adds an extra layer of security. Avoid logging in from public or shared computers, and remember to log out after completing your tasks.
-i
